@@ -12,4 +12,4 @@
 
 # removeContact
 
-[![removeContact](https://ibb.co/h757641)](https://ibb.co/h757641)
+[![removeContact](./image/remove.png)](https://ibb.co/h757641)
